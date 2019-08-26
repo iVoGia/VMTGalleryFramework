@@ -7,6 +7,17 @@ The framework help you get all images from device's photo and show on your custo
 3. Add "Privacy - Photo Library Usage Description" to your Info.plist file.
 4. Don't forget allow the application get photos from your device when the dialog is shown.
 
+## Sample Code
+```python
+func initGalleryView() {
+  let r = CGRect(x: 0, y: 0, width: vAllImageBase.frame.size.width, height: vAllImageBase.frame.size.height)
+  let vGallery = VMTGalleryView(frame: r)
+  vGallery.backgroundColor = UIColor.white
+  vGallery.delegate = self
+  vAllImageBase.addSubview(vGallery)
+}
+```
+
 Preview Image:
 ![Alt text](https://github.com/iVoGia/VMTGalleryFramework/blob/master/VMTGalleryFrameworkDemo/VMTGalleryFrameworkDemo/Demo.jpg?raw=true)
 
