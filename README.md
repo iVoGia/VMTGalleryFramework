@@ -1,5 +1,5 @@
 # VMTGalleryFramework
-The framework help you get all images from device's photo and show on your custom view.
+The framework help you get all images from your device and show on your custom view.
 
 ## Usage
 1. Drag "VMTGalleryFramework.framework" to your project.
@@ -18,6 +18,10 @@ func initGalleryView() {
 }
 ```
 
+## Contact
+If you have any question, please contact me by email: afterjob2018@gmail.com
+
 Preview Image:
 ![Alt text](https://github.com/iVoGia/VMTGalleryFramework/blob/master/VMTGalleryFrameworkDemo/VMTGalleryFrameworkDemo/Demo.jpg?raw=true)
 
+## Thanks and Best Regards.
