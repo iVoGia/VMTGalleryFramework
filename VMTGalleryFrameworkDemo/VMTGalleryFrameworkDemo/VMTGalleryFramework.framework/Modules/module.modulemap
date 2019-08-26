@@ -1,0 +1,11 @@
+framework module VMTGalleryFramework {
+  umbrella header "VMTGalleryFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module VMTGalleryFramework.Swift {
+    header "VMTGalleryFramework-Swift.h"
+    requires objc
+}
