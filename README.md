@@ -8,5 +8,5 @@ The framework help you get all images from device's photo and show on your custo
 4. Don't forget allow the application get photos from your device when the dialog is shown.
 
 Preview Image:
-![Alt text](/../master/path/to/Demo.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/iVoGia/VMTGalleryFramework/blob/master/VMTGalleryFrameworkDemo/VMTGalleryFrameworkDemo/Demo.jpg?raw=true)
 
