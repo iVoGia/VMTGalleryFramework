@@ -23,6 +23,6 @@ If you have any question, please contact me by email: afterjob2018@gmail.com
 
 ## Preview image
 
-![Alt text](https://github.com/iVoGia/VMTGalleryFramework/blob/master/VMTGalleryFrameworkDemo/VMTGalleryFrameworkDemo/Demo.jpg?raw=true)
+![Alt text](https://github.com/iVoGia/VMTGalleryFramework/blob/master/VMTGalleryFrameworkDemo/Demo.jpg?raw=true)
 
 ## Thanks and Best Regards.
