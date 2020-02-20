@@ -18,11 +18,8 @@ class ViewController: UIViewController, VMTGalleryViewDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-
         customUI()
         initGalleryView()
-
     }
 
     private func customUI() {
@@ -46,7 +43,7 @@ class ViewController: UIViewController, VMTGalleryViewDelegate {
         vGallery?.setFrame(frame: r)
     }
 
-    // Did select image
+    /// Did select image
     func didSelectImage(image: UIImage) {
         imgShowImageDemo.image = image
     }
